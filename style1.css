@@ -1,0 +1,36 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    font-size: 0px;
+}
+.rectangle-black{
+    background-color: black;
+    width: 810px;
+    height: 410px;
+    position: absolute;
+    }
+.rectangle-orange{
+    background-color: orange;
+    width: 800px;
+    height: 400px;
+    margin: 5px;
+    position: absolute;
+}
+.rectangle{
+    width: 200px;
+    height: 300px;
+    display: inline-block;
+    margin-top: 50px;
+}
+.red{
+    background-color: red;
+}
+.green{
+    background-color: green;
+}
+.blue{
+    background-color: blue;
+}
+.black{
+    background-color: black;
+}

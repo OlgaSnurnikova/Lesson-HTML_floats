@@ -1,0 +1,33 @@
+body{
+    margin: 0px;
+}
+.box-black{
+    background-color: black;
+    width: 810px;
+    height: 410px;
+    padding-top: 5px;
+    padding-left: 5px;
+}
+.box-orange{
+    background-color: orange;
+    width: 800px;
+    height: 400px;
+}
+.box-inner{
+    width: 200px;
+    height: 300px;
+    float: left;
+    margin-top: 50px;
+}
+.red{
+    background-color: red;
+}
+.green{
+    background-color: green;
+}
+.blue{
+    background-color: blue;
+}
+.black{
+    background-color: black;
+}
